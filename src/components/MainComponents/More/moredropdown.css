@@ -1,0 +1,21 @@
+   #hoverShow1{
+     font-size: 12px;  
+     font-weight: 1500;
+   }
+   #hoverShow{
+     font-size: 12px; 
+     height: 100px;
+     width: 94%;
+     position: fixed;
+     background-color: greenyellow;
+     left: 35px;
+     top: 137px;
+     border-top: 8px solid green;
+     
+   }
+  #morelinkshow:hover{
+    font-size: 18px;
+    color: black;
+  }
+ 
+   

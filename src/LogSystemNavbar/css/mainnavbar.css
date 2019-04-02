@@ -1,0 +1,88 @@
+.my-navbar {
+    width: 82%;
+    background-color: rgba(146, 13, 8, 0.979);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+}
+#strechSideBar {
+    width: 300px;
+    height: 50px;
+    background-color: blueviolet;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: rgba(146, 13, 8, 0.979);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 40px;
+}
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+#navbarul {
+    list-style: none;
+    font-size: 14px;
+}
+.mymodal {
+    background-color: blueviolet;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0;
+    height: 100%;
+    left: auto;
+    margin: 0;
+}
+#cros {
+    margin-right: 90%;
+}
+.drop1 {
+    background-color: brown;
+
+}
+#navbarLinks {
+    color: white;
+    font-size: 14px;
+}
+.hummartpic {
+    width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#hummartpic {
+    margin-right: 10%;
+    padding-top: 25px;
+}
+#close {
+    position: absolute;
+    right: 200px;
+
+
+}
+
+#navbarLinks:hover {
+    color: cadetblue;
+    font-size: 14px;
+}
+
+#modelNavbarLinks {
+    color: white;
+    font-size: 15px;
+}
+
+#modelNavbarLinks:hover {
+    color: black;
+
+}

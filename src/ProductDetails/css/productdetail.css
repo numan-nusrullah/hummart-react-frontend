@@ -1,0 +1,17 @@
+.info{
+    /* margin-left: 50px; */
+    border: 2px solid rgb(243, 243, 250);
+    width: 100px;
+    text-align: center;
+}
+.productHeading{
+    text-align: center;
+    color: green;
+}
+.choice{
+    border: 2px solid rgb(243, 243, 250);
+    color: green;
+}
+.info h5 {
+    color: green;
+}
